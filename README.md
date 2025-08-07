@@ -2,14 +2,16 @@
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=D4NG02&label=Profile%20views&color=0e75b6&style=flat)
+
+![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
 - LinkedIn: [badrulijazi](https://www.linkedin.com/in/badrulijazi/)
 - Portfolio: [My Portfolio](https://badrulijazi.com/)
 
-![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true)
 
 ## 🛠️ Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
