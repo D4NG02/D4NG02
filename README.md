@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=prussian&hide_title=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=D4NG02&theme=prussian)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=D4NG02&theme=tokyonight&rank=-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=D4NG02&theme=tokyonight&rank=-?&margin-w=10&&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
