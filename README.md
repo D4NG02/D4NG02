@@ -25,7 +25,6 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![eXist-db](https://img.shields.io/badge/eXist--db-005aa7?style=for-the-badge)
 
 ![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
