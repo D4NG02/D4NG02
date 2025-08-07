@@ -60,3 +60,4 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D4NG02)](https://github.com/anuraghazra/github-readme-stats)
