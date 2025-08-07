@@ -2,7 +2,7 @@
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=solarized-light&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=shadow_blue&hide_title=true)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
