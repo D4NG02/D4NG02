@@ -35,7 +35,4 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-![XSLT](https://img.shields.io/badge/XSLT-xml-blue?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-3c873a?style=for-the-badge)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
