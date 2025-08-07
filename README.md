@@ -59,4 +59,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="Confluence" height="30" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=compact&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
