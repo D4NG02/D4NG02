@@ -4,7 +4,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=gradient"
+    srcset="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=ambient_gradient "
   />
   <img src="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true" />
 </picture>
@@ -54,4 +54,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="Confluence" height="30" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=ambient_gradient )](https://github.com/anuraghazra/github-readme-stats)
