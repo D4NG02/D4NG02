@@ -2,7 +2,7 @@
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=solarized-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=solarized-light&hide_title)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
