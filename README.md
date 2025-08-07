@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Badrul Ijazi
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=D4NG02&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📫 Contact Me
