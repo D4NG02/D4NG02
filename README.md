@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Badrul Ijazi
 
-<!--
-**D4NG02/D4NG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [My Portfolio](https://badrulijazi.com/)
+- [GitHub Activity](#) _(Embed via GitHub-readme-stats)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: badrulijazi@gmail.com
+- LinkedIn: [badrulijazi](www.linkedin.com/in/badrulijazi)
+
+![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulijazi&show_icons=true)
