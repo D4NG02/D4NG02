@@ -15,15 +15,7 @@
 </picture>
 
 ## 📫 Contact Me
-- Email: badrulijazi@gmail.com
-- LinkedIn: [https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://www.linkedin.com/in/badrulijazi/)
-- Portfolio: [My Portfolio](https://badrulijazi.com/)
-
-  
-<p align="left">
-  <a href="mailto:badrulijazi@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="google" width="40" height="40" />
-  </a>
+<p align="left" style="display: flex; flex-direction: row; gap: 12px">
   <a href="https://www.linkedin.com/in/badrulijazi/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
   </a>
