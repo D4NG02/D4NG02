@@ -2,7 +2,7 @@
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=shadow_blue&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=prussian&hide_title=true)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
@@ -38,4 +38,4 @@
 ![XSLT](https://img.shields.io/badge/XSLT-xml-blue?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-3c873a?style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NG02&layout=donut&langs_count=8&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
