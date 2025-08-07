@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=D4NG02&label=Profile%20views&color=0e75b6&style=flat)
 
-![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=transparent)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
