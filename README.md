@@ -8,7 +8,7 @@
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/badrulijazi)](https://www.linkedin.com/in/badrulijazi)
+- LinkedIn: [https://www.linkedin.com/in/badrulijazi](https://www.linkedin.com/in/badrulijazi)
 - Portfolio: [https://badrulijazi.com/](https://badrulijazi.com/)
 
 ## 🛠️ Languages & Tools
