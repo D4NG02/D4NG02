@@ -2,9 +2,7 @@
 
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
-<picture>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=ambient_gradient" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
