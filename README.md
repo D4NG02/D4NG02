@@ -4,7 +4,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=D4NG02&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=D4NG02)](https://git.io/streak-stats)
 
 ![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true)
 
