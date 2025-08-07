@@ -3,10 +3,7 @@
 💻 Web Developer | 🌐 Building cool websites | 🚀 Always learning
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=ambient_gradient"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true&theme=ambient_gradient" />
 </picture>
 
 ## 📫 Contact Me
