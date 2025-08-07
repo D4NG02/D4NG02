@@ -6,7 +6,7 @@
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
-- LinkedIn: [badrulijazi](www.linkedin.com/in/badrulijazi)
+- LinkedIn: [badrulijazi](linkedin.com/in/badrulijazi)
 - Portfolio: [My Portfolio](https://badrulijazi.com/)
 
 ![Badrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4NG02&show_icons=true)
