@@ -16,7 +16,7 @@
 
 ## 📫 Contact Me
 - Email: badrulijazi@gmail.com
-- LinkedIn: [badrulijazi](https://www.linkedin.com/in/badrulijazi/)
+- LinkedIn: [(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)](https://www.linkedin.com/in/badrulijazi/)
 - Portfolio: [My Portfolio](https://badrulijazi.com/)
 
 
